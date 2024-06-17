@@ -4,3 +4,5 @@
 
 This demo repository was created as a part of education.  
 More details [Middle python developer](https://practicum.yandex.ru/middle-python/).
+
+More about the author: [contacts](./contacts.md)
